@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-#hff^^31qxx)ksy%i0oqppk@2y3bsbn@x=$mgl(^uxd(4ci0sw
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS += ['zany-happiness-6jvr7x6v9wvcrgvx-8000.app.github.dev', 'localhost']
 
 
 # Application definition
